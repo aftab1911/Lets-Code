@@ -33,5 +33,6 @@ int main()
         }
     }
     cout<<"The smallest integer in 2D array is "<<s<<endl;
+    cout<<"The greatest integer in 2D array is "<<l<<endl;
     return 0;
 }
